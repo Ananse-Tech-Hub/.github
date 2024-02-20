@@ -126,11 +126,11 @@
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=arkohaddoebenezer&show_icons=true&locale=en&layout=compact"
-        alt="arkohaddoebenezer" /></p>
+        alt="ananse-tech-hub" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=arkohaddoebenezer&show_icons=true&locale=en"
-        alt="arkohaddoebenezer" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=ananse-tech-hub&show_icons=true&locale=en"
+        alt="ananse-tech-hub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkohaddoebenezer&"
-        alt="arkohaddoebenezer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananse-tech-hub&"
+        alt="ananse-tech-hub" /></p>
