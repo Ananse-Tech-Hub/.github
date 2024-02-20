@@ -1,4 +1,4 @@
-<img width="100%" height="15%"
+<img width="100%" height="5%"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anansi_the_Spider_01.png/220px-Anansi_the_Spider_01.png">
 
 <h1 align="center">Hi 👋, Welcome to Ananse Tech Hub</h1>
@@ -9,7 +9,7 @@
         alt="Ananse Tech Hub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=Ananse-Tech-Hub" alt="ananse-tech-hub" /></a>
+            src="https://github-profile-trophy.vercel.app/?username=ananse-tech-hub" alt="ananse-tech-hub" /></a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/earkohaddo" target="blank"><img
