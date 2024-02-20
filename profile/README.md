@@ -1,4 +1,4 @@
-<p aling="center"><img width='50%' align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anansi_the_Spider_01.png/220px-Anansi_the_Spider_01.png">
+<p aling="center"><img width='25%' align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anansi_the_Spider_01.png/220px-Anansi_the_Spider_01.png">
 
 <h1 align="right">Hi 👋, Welcome to Ananse Tech Hub</h1>
 </p>
