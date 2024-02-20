@@ -1,4 +1,4 @@
-<img width="100%" style='height:5%'
+<img width="100%" style='height:5%' height='100px'
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anansi_the_Spider_01.png/220px-Anansi_the_Spider_01.png">
 
 <h1 align="center">Hi 👋, Welcome to Ananse Tech Hub</h1>
