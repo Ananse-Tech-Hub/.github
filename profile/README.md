@@ -2,7 +2,11 @@
         <img width='25%' align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Anansi_the_Spider_01.png/220px-Anansi_the_Spider_01.png">
         <h1 align="right">Hi 👋, Welcome to Ananse Tech Hub</h1>
 </p>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=Ananse-Tech-Hub&label=Profile%20views&color=0e75b6&style=flat"
         alt="Ananse Tech Hub" /> </p>
