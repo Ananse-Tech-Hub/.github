@@ -6,6 +6,23 @@
   <br>
 </h1>
 
+<p align="center">
+<br/>
+  <a href="#about">About US</a> •
+<br/>
+  <a href="#key-features">Our Services</a> •
+<br/>
+  <a href="#getting-started">Contacts</a> •
+<br/>
+  <a href="#faq">FAQ</a> •
+<br/>
+  <a href="#roadmap">Roadmap</a> •
+<br/>
+  <a href="#support">Support</a> •
+<p align="left"> <img
+  <a href="#license">License</a>
+
+
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=Ananse-Tech-Hub&label=Profile%20views&color=0e75b6&style=flat"
         alt="Ananse Tech Hub" /> </p>
